@@ -1,0 +1,59 @@
+:root {
+    background-color: rgb(3, 221, 221);
+}
+h1 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+.contenedordelnav {
+    padding-block: 5rem;
+    border-radius: 6px;
+    background-color: antiquewhite;
+    position: center;
+    font-size: 20px;
+}
+table {
+    color: rgb(168, 14, 14);
+    
+}
+body {
+    background-color: aliceblue;
+}
+
+p {
+    color: rgb(93, 5, 175);
+}
+p header {
+    color: rgb(18, 80, 80);
+}
+
+main {
+    padding: 2rem;
+    background-color: brown;
+}
+iframe {
+    position: center;
+}
+.columna {
+  justify-content: center;
+  background-color: rgb(72, 206, 31);
+  align-content: center;
+}
+.imagen {
+    width: 100%;
+    justify-content: center;
+    padding:8rem;
+
+}
+.vimeo-player {
+   position: center;
+   padding: 2rem;
+   margin-left: 2rem;
+}
+.soundcloud {
+    padding: 4rem;
+    margin-left: 4rem;
+
+    position: center;
+    background-color: rgb(121, 109, 109);
+}
